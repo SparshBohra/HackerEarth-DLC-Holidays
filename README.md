@@ -38,7 +38,7 @@ image7831.jpg,Miscellaneous
 <img width="758" alt="Screen Shot 2021-01-29 at 4 17 29 PM" src="https://user-images.githubusercontent.com/53478586/106265819-97941400-624d-11eb-879a-0577769b3517.png">
  
 ### Acknowledgement
-Link To Contest --> https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/machine-learning/holiday-season-11-2c924626/
+Link To Contest --> https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/
 
 ---
 # My Solutions (Rank: 87, Top 3.4%)
