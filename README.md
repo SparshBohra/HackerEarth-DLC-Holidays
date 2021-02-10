@@ -41,7 +41,7 @@ image7831.jpg,Miscellaneous
 Link To Contest --> https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/
 
 ---
-# My Solutions (Rank: 87, Top 3.4%)
+# My Solutions (Rank: 113, Top 3%)
 1.  Attempt 1
     - SCORE: 88.90237
     - Used transfer learning in Keras and fine-tuned an InceptionResNetV2 model
